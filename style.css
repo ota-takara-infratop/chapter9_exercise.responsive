@@ -100,17 +100,17 @@ footer {
   }
   
   .step1-img {
-    width: 362px;
-    background-size: 409px;
+    width: 100%;
+    background-size: 110%;
   }
   
   .step2-img {
-    width: 362px;
-    background-size: 409px;
+    width: 100%;
+    background-size: 110%;
   }
   
   .step3-img {
-    width: 362px;
-    background-size: 409px;
+    width: 100%;
+    background-size: 110%;
   }
 }
